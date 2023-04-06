@@ -1,0 +1,161 @@
+{
+  "techname": {
+    "java": {
+      "techdesc": "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented and specifically designed to have as few implementation dependencies as possible.",
+      "techlink": "https://www.javatpoint.com/java-tutorial",
+      "careerpage": [
+        "https://internshala.com",
+        "https://www.hackerearth.com/",
+        "https://www.hackerrank.com/",
+        "https://www.geeksforgeeks.org/"
+      ],
+      "jobpage": [
+        "https://www.naukri.com/java-jobs",
+        "https://www.monsterindia.com/java-jobs",
+        "https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=java&txtLocation="
+      ],
+      "interviewpage": "https://www.geeksforgeeks.org/interview-questions-for-java-professionals/",
+      "interviewquestion": "https://www.geeksforgeeks.org/interview-questions-for-java-professionals",
+      "interviewanswer": "https://www.geeksforgeeks.org/interview-questions-for-java-professionals/",
+      "interviewtips": "https://www.geeksforgeeks.org/interview-questions-for-java-professionals/"
+    },
+    "javascript": {
+      "techdesc": "JavaScript is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm.",
+      "techlink": "https://www.javatpoint.com/javascript-tutorial",
+      "careerpage": [
+        "https://internshala.com",
+        "https://www.hackerearth.com/",
+        "https://www.hackerrank.com/",
+        "https://www.geeksforgeeks.org/"
+      ],
+      "jobpage": [
+        "https://www.naukri.com/javascript-jobs",
+        "https://www.monsterindia.com/javascript-jobs",
+        "https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=javascript&txtLocation="
+      ],
+      "interviewpage": "https://www.geeksforgeeks.org/interview-questions-for-javascript-professionals/",
+      "interviewquestion": "https://www.geeksforgeeks.org/interview-questions-for-javascript-professionals/",
+      "interviewanswer": "https://www.geeksforgeeks.org/interview-questions-for-javascrpit-professionals/",
+      "interviewtips": "https://www.geeksforgeeks.org/interview-questions-for-javascript-professionals/"
+    },
+    "python": {
+      "techdesc": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.",
+      "techlink": "https://www.javatpoint.com/python-tutorial",
+      "careerpage": [
+        "https://internshala.com",
+        "https://www.hackerearth.com/",
+        "https://www.hackerrank.com/",
+        "https://www.geeksforgeeks.org/"
+      ],
+      "jobpage": [
+        "https://www.naukri.com/python-jobs",
+        "https://www.monsterindia.com/python-jobs",
+        "https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=python&txtLocation="
+      ],
+      "interviewpage": "https://www.geeksforgeeks.org/python-interview-questions/",
+      "interviewquestion": "https://www.geeksforgeeks.org/python-interview-questions/",
+      "interviewanswer": "https://www.geeksforgeeks.org/python-interview-questions/",
+      "interviewtips": "https://www.geeksforgeeks.org/python-interview-questions/"
+    },
+    "c++": {
+      "techdesc": "C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or \"C with Classes\". The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation.",
+      "techlink": "https://www.javatpoint.com/c-plus-plus-tutorial",
+      "careerpage": [
+        "https://internshala.com",
+        "https://www.hackerearth.com/",
+        "https://www.hackerrank.com/",
+        "https://www.geeksforgeeks.org/"
+      ],
+      "jobpage": [
+        "https://www.naukri.com/cplusplus-jobs",
+        "https://www.monsterindia.com/cplusplus-jobs",
+        "https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=cplusplus&txtLocation="
+      ],
+      "interviewpage": "https://www.geeksforgeeks.org/cpp-interview-questions/",
+      "interviewquestion": "https://www.geeksforgeeks.org/cpp-interview-questions/",
+      "interviewanswer": "https://www.geeksforgeeks.org/cpp-interview-questions/",
+      "interviewtips": "https://www.geeksforgeeks.org/cpp-interview-questions/"
+    },
+    "r": {
+      "techdesc": "R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis.",
+      "techlink": "https://www.javatpoint.com/r-programming-tutorial",
+      "careerpage": [
+        "https://internshala.com",
+        "https://www.hackerearth.com/",
+        "https://www.hackerrank.com/",
+        "https://www.geeksforgeeks.org/"
+      ],
+      "jobpage": [
+        "https://www.naukri.com/r-jobs",
+        "https://www.monsterindia.com/r-jobs",
+        "https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=r&txtLocation="
+      ],
+      "interviewpage": "https://www.edureka.co/blog/interview-questions/r-interview-questions/",
+      "interviewquestion": "https://www.edureka.co/blog/interview-questions/r-interview-questions/",
+      "interviewanswer": "https://www.edureka.co/blog/interview-questions/r-interview-questions/",
+      "interviewtips": "https://www.edureka.co/blog/interview-questions/r-interview-questions/"
+    },
+    "rust": {
+      "techdesc": "Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. Rust is designed to be a safe, concurrent, practical language. It accomplishes these goals by being memory safe without using garbage collection. Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. Rust is designed to be a safe, concurrent, practical language. It accomplishes these goals by being memory safe without using garbage collection.",
+      "techlink": "https://www.javatpoint.com/rust-tutorial",
+      "careerpage": [
+        "https://internshala.com",
+        "https://www.hackerearth.com/",
+        "https://www.hackerrank.com/",
+        "https://www.geeksforgeeks.org/"
+      ],
+      "jobpage": [
+        "https://www.naukri.com/rust-jobs",
+        "https://www.monsterindia.com/rust-jobs",
+        "https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=rust&txtLocation="
+      ],
+      "interviewpage": "https://codesubmit.io/interview/rust-interview-questions",
+      "interviewquestion": "https://codesubmit.io/interview/rust-interview-questions",
+      "interviewanswer": "https://codesubmit.io/interview/rust-interview-questions",
+      "interviewtips": "https://codesubmit.io/interview/rust-interview-questions"
+    },
+    "MERN": {
+      "techdesc": "MERN is a free and open-source JavaScript software stack for building dynamic web sites and web applications. MERN is a free and open-source JavaScript software stack for building dynamic web sites and web applications.",
+      "techlink": "https://www.javatpoint.com/mern-stack-tutorial",
+      "careerpage": [
+        "https://internshala.com",
+        "https://www.hackerearth.com/",
+        "https://www.hackerrank.com/",
+        "https://www.geeksforgeeks.org/"
+      ],
+      "jobpage": [
+        "https://www.naukri.com/mern-jobs",
+        "https://www.monsterindia.com/mern-jobs",
+        "https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=mern&txtLocation="
+      ],
+      "interviewpage": "https://www.interviewbit.com/full-stack-developer-interview-questions/",
+      "interviewquestion": "https://www.interviewbit.com/full-stack-developer-interview-questions/",
+      "interviewanswer": "https://www.interviewbit.com/full-stack-developer-interview-questions/",
+      "interviewtips": "https://www.interviewbit.com/full-stack-developer-interview-questions/"
+    },
+    "Capgemini": "https://lnkd.in/dZBUYY88",
+    "Infosys": " https://lnkd.in/dEcdZ7gf",
+    "Byju’s": "https ://lnkd.in/dX4g5UrW",
+    "TCS": "https://lnkd.in/dZBUYY88",
+    "Wipro": "https://lnkd.in/dEcdZ7gf",
+    "Accenture": "https://lnkd.in/dX4g5UrW",
+    "Cognizant": "https://lnkd.in/dZBUYY88",
+    "Tech Mahindra": "https://lnkd.in/dEcdZ7gf",
+    "HCL": "https://lnkd.in/dX4g5UrW",
+    "L&T Infotech": "https://lnkd.in/dZBUYY88",
+    "Deloitte": "https://lnkd.in/dEcdZ7gf",
+    "IBM": "https://lnkd.in/dX4g5UrW",
+    "Oracle": "https://lnkd.in/dZBUYY88",
+    "Amazon": "https://lnkd.in/dEcdZ7gf",
+    "Microsoft": "https://lnkd.in/dX4g5UrW",
+    "Google": "https://lnkd.in/dZBUYY88",
+    "Flipkart": "https://lnkd.in/dEcdZ7gf",
+    "Ola": "https://lnkd.in/dX4g5UrW",
+    "Uber": "https://lnkd.in/dZBUYY88",
+    "Paytm": "https://lnkd.in/dEcdZ7gf",
+    "Snapdeal": "https://lnkd.in/dX4g5UrW",
+    "Swiggy": "https://lnkd.in/dX4g5UrW",
+    "OYO": "https://lnkd.in/dZBUYY88",
+    "Zomato": "https://lnkd.in/dEcdZ7gf"
+  }
+}
